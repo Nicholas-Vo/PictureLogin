@@ -1,6 +1,8 @@
 PictureLogin-Continued [![Version](https://img.shields.io/badge/version-1.0.4-blue)](https://www.spigotmc.org/resources/picturelogin-continued.101216/)
 ===
 
+**Add SkinsRestorer support.**
+
 This is a popular plugin for Minecraft servers (over 50,000 downloads) that has sadly been unsupported for a while; I've updated it to Minecraft 1.18 and will be supporting future versions!
 
 PictureLogin creates a fancy login message by displaying a picture of the player's head inside of chat.

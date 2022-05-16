@@ -1,11 +1,11 @@
 name: PictureLogin
 main: me.itsnathang.picturelogin.PictureLogin
 api-version: 1.18
-author: NathanG, _NickV
+author: NathanG, _NickV, xiaozhangup
 description: Display a cool login message with a picture of the player's skin.
 
 version: ${version}
-softdepend: [AuthMe, PlaceholderAPI]
+softdepend: [AuthMe, PlaceholderAPI, SkinsRestorer]
 
 commands:
   picturelogin:

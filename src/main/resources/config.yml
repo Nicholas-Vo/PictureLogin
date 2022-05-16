@@ -195,6 +195,7 @@ require-permission: true
 hooks:
   PlaceholderAPI: true
   AuthMe: true
+  SkinsRestorer: true
 
 #############
 # Update Check
