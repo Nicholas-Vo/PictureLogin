@@ -162,10 +162,10 @@ character: 'BLOCK'
 # %uuid%   - Joined player's UUID
 # %pname%  - Joined player's Username
 
-url: 'https://minepic.org/avatar/8/%uuid%'
+url: 'https://minepic.org/avatar/%uuid%/8'
 
 # CRACKED SERVERS - USE THIS URL:
-# url: 'https://minepic.org/avatar/8/%pname%'
+# url: 'https://minepic.org/avatar/%pname%/8'
 
 #############
 # Async
