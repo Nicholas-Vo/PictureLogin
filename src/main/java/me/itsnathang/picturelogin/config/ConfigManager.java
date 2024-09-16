@@ -83,7 +83,7 @@ public class ConfigManager {
         if (url == null) {
             plugin.getLogger().log(Level.SEVERE, "Could not read picture url from config.yml!");
 
-            return "https://minepic.org/avatar/8/%uuid%";
+            return "https://minepic.org/avatar/%uuid%/8";
         }
 
         return url;
